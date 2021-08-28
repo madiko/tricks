@@ -4,6 +4,7 @@ authors: [madiko]
 prio:
 ---
 
+<a name="overview"></a>
 # Backups – Wozu, wann und wie durchführen?
 
 - [Wozu dienen Backups?](#wozu)
@@ -22,36 +23,55 @@ prio:
 ## Wozu dienen Backups?
 
 
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
 
 <a name="prozess"></a>
 ## Empfohlener Prozess
 
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
+
 <a name="aktuelles-portal"></a>
 ### Sicherheitskopie eines aktuellen Portals
 
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
+
 <a name="remote"></a>
 ### Übertragen der Daten und Datenbank von einer Internet- zu einer lokalen Remote-Instanz
 
+
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
 
 <a name="umzug"></a>
 ### Übertragen der Daten und Datenbank von einer in eine andere Instanz
 
 
 
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
  
 <a name="technische-realisierung"></a>
 ## Verschiedene technische Wege zum Backup
 
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
+
 <a name="backup"></a>
 ### Backup via Backup AddOn
 
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
+
 <a name="adminer"></a>
 ### Backup via Adminer AddOn
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
 
 <a name="terminal"></a>
 ### Backup via Terminal
@@ -66,6 +86,11 @@ Empfohlene Tools für...
 	- [Sequel Pro - Sequel Pro](https://sequelpro.com/)
 	
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
+
 <a name="links"></a>
 ### Weiterführende Links
 
+
+[&uarr; zurück zum Inhaltsverzeichnis](#overview)
